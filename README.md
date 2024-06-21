@@ -41,7 +41,7 @@ O dataset do Titanic é composto por informações sobre os passageiros do RMS T
 ## Estrutura do Repositório
 
 - **data/**: Contém os arquivos de dados originais e pré-processados.
-- **notebooks/**: Jupyter Notebooks utilizados para a análise e modelagem do dataset.
+- **scripts/**: Jupyter Notebooks utilizados para a análise e modelagem do dataset.
 - **results/**: Resultados da análise, incluindo visualizações e métricas de desempenho dos modelos.
 
 ## Tecnologias Utilizadas
